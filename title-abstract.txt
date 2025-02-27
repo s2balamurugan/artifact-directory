@@ -1,5 +1,13 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Exploration and Applications of Fairness Algorithms>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Our work this quarter focuses on latent variable discovery of fair labels. This
+fairness algorithm and its accuracy will be evaluated on a variety of datasets,
+including common fairness datasets from UCI Adults, German Credit Scores,
+and Compas (recidivism data). The objective of this algorithm is to reduce
+unfair biases that are affected by sensitive features within the data. These
+biases can significantly impact predictive models, leading to unfair outcomes
+that disproportionately affect certain groups. Since these models often rely
+on sensitive attributes rather than unbiased patterns, ensuring fairness in pre-
+dictions remains a critical challenge.>
