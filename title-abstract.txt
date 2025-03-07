@@ -1,5 +1,5 @@
 Title:
-<Exploration and Applications of Fairness Algorithms>
+<Applications of Fairness: Label Bias and Recovery of Ground Truth>
 
 Abstract:
 <Our work this quarter focuses on latent variable discovery of fair labels. This
